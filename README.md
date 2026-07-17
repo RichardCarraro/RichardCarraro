@@ -46,8 +46,7 @@ ferramentas:  [Git, VS Code, Linux]
 ## `$ git log --stat`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats-pi-seven-12.vercel.app/api?username=RichardCarraro&show_icons=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3fb950" alt="Estatísticas do GitHub"/>
+  
 <img height="165" src="https://github-readme-stats-pi-seven-12.vercel.app/api/top-langs/?username=RichardCarraro&layout=compact&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="Linguagens mais usadas"/>
 
 </div>
