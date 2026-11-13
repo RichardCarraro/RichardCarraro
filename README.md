@@ -17,7 +17,7 @@
 richard@curitiba
 ────────────────────────────────────────────────────────────
  Formação     Engenharia de Software (em andamento)
- Trabalho     Estagiário de TI · CRC-PR
+ Trabalho     Programador · CRC-PR
               Conselho Regional de Contabilidade do Paraná
  Local        Curitiba — PR, Brasil (UTC-3)
  Foco         Desenvolvimento web · Banco de dados
